@@ -1,0 +1,6 @@
+[RESOURCES]
+[VARIABLES]
+doctor.NumberIn
+doctor.NumberOut
+pateint.NumberOut
+exit.NumberOut

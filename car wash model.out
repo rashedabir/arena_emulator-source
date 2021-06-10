@@ -1,0 +1,85 @@
+
+                                      ARENA Simulation Results
+                                     rashedkhan1219bd@gmail.com
+
+                                  Summary for Replication 1 of 1
+
+Project: car wash model                                              Run execution date : 6/ 9/2021
+Analyst: rashedkhan1219bd@gmail.com                                  Model revision date: 6/ 9/2021
+
+Replication ended at time      : 14.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+wash_station.TotalCostPerEntity             .00000     (Insuf)    .00000     .00000         72    
+wash_station.VATimePerEntity                .19232     (Insuf)    .13911     .24007         72    
+wash_station.WaitTimePerEntity              2.2081     (Insuf)    .00000     4.4362         72    
+wash_station.TotalTimePerEntity             2.4004     (Insuf)    .17999     4.6368         72    
+wash_station.VACostPerEntity                .00000     (Insuf)    .00000     .00000         72    
+wash_station.WaitCostPerEntity              .00000     (Insuf)    .00000     .00000         72    
+Entity 1.VATime                             .19232     (Insuf)    .13911     .24007         72    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         72    
+Entity 1.WaitTime                           2.2081     (Insuf)    .00000     4.4362         72    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         72    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         72    
+Entity 1.TotalTime                          2.4004     (Insuf)    .17999     4.6368         72    
+Entity 1.VACost                             .00000     (Insuf)    .00000     .00000         72    
+Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000         72    
+Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000         72    
+Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000         72    
+Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000         72    
+Entity 1.TotalCost                          .00000     (Insuf)    .00000     .00000         72    
+wash_station.Queue.WaitingTime              2.2405     (Insuf)    .00000     4.5684         73    
+wash_station.Queue.WaitingCost              .00000     (Insuf)    .00000     .00000         73    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                17.851     (Insuf)    .00000     36.000     34.000    
+Resource.NumberBusy                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Resource.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource.Utilization                        1.0000     (Insuf)    .00000     1.0000     1.0000    
+wash_station.Queue.NumberInQueue            16.851     (Insuf)    .00000     35.000     33.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+wash_station Accum VA Cost                  .00000    
+wash_station Number In                      106.00    
+wash_station Number Out                     72.000    
+wash_station Accum Wait Time                158.98    
+wash_station Accum Wait Cost                .00000    
+wash_station Total Accum Cost               .00000    
+wash_station Accum VA Time                  13.846    
+wash_station Total Accum Time               172.83    
+Entity 1.NumberIn                           106.00    
+Entity 1.NumberOut                          72.000    
+Resource.NumberSeized                       73.000    
+Resource.ScheduledUtilization               1.0000    
+Resource.BusyCost                           .00000    
+Resource.IdleCost                           .00000    
+Resource.UsageCost                          .00000    
+All Entities.VACost                         .00000    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      .00000    
+All Entities.TotalCost                      .00000    
+All Resources.BusyCost                      .00000    
+All Resources.IdleCost                      .00000    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     .00000    
+System.TotalCost                            .00000    
+System.NumberOut                            72.000    
+
+
+Simulation run time: 0.10 minutes.
+Simulation run complete.

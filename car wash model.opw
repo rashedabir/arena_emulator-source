@@ -1,0 +1,11 @@
+[RESOURCES]
+Resource
+[VARIABLES]
+wash_station.VACost
+vehicle_exit.NumberOut
+wash_station.NumberIn
+wash_station.NumberOut
+wash_station.WaitTime
+wash_station.WaitCost
+vehicle_arrival.NumberOut
+wash_station.VATime
