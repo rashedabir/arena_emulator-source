@@ -1,0 +1,80 @@
+
+0.0 Hours>
+0.0 Hours>
+0.0 Hours>
+0.028846022 Hours>
+0.028846022 Hours>
+0.028846022 Hours>
+0.033860302 Hours>
+0.033860302 Hours>
+0.033860302 Hours>
+0.044268007 Hours>
+0.044268007 Hours>
+0.044268007 Hours>
+0.074560034 Hours>
+0.074560034 Hours>
+0.15682361 Hours>
+0.15682361 Hours>
+0.18732963 Hours>
+0.18732963 Hours>
+0.18732963 Hours>
+0.21668038 Hours>
+0.21668038 Hours>
+0.21668038 Hours>
+0.23331624 Hours>
+0.23331624 Hours>
+0.23331624 Hours>SIMAN Run Controller.
+
+11.574794 Hours>
+11.574794 Hours>
+                                      ARENA Simulation Results
+                            rashedkhan1219bd@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 6/16/2021
+Analyst: rashedkhan1219bd@gmail.com                                  Model revision date: 6/16/2021
+
+Replication ended at time      : 11.574794 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .12664     (Insuf)    .10863     .14162         67    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         67    
+Entity 1.WaitTime                           3.0314     (Insuf)    .24110     6.4454         67    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         67    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         67    
+Entity 1.TotalTime                          3.1581     (Insuf)    .35733     6.5858         67    
+queue.Queue.WaitingTime                     1.9056     (Insuf)    .00000     3.9348        105    
+booth.Queue.WaitingTime                     1.8728     (Insuf)    .20051     3.8921         67    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                45.618     (Insuf)    .00000     89.000     89.000    
+Resource 1.NumberBusy                       1.0000     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      1.0000     (Insuf)    .00000     1.0000     1.0000    
+queue.Queue.NumberInQueue                   27.211     (Insuf)    .00000     53.000     51.000    
+booth.Queue.NumberInQueue                   17.406     (Insuf)    .00000     37.000     37.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           156.00    
+Entity 1.NumberOut                          67.000    
+Resource 1.NumberSeized                     172.00    
+Resource 1.ScheduledUtilization             1.0000    
+System.NumberOut                            67.000    
+
+
+Simulation run time: 0.67 minutes.
+Simulation run complete.
